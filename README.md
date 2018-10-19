@@ -14,12 +14,11 @@ What does Project Do ?
               
     2.) Login as Manager
           
+             Manager can Update stock, change details about himself/herself ,view menu ,hire/fire receptionist andmany more
+             Further details can be easily understood after running the program. For username and password please open the
+             manager.txt file and you will find the username and password for one manager enter them in the program
+             and you are good to go .Structrue of the file is given in the folder StructureOfDatabase.
              
-
-
-
-
-
 
 
 
