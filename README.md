@@ -1,4 +1,4 @@
-"# FoodCourtTransaction" 
+ 
 Food Court Transaction
 
 Steps to install and run project:
